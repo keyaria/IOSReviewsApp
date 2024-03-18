@@ -9,10 +9,29 @@
 - PostgreSQL
 - Docker
 
-## Techical Descions
+## Quick Start
+```
 
-### Repository Pattern
+// Build application in docker
+docker compose build
+
+// Run For first time
+docker compose up -d
+
+
+```
+## Technical Decisions
+
+- ViteJS
+
+- Repository Pattern
 
 ## Tradeoffs
 
+- Writing to JSON file vs Database
+
+
 ## Improvements
+
+- Add Swagger Doc for API
+- Create a table that stores Users and that has link to all reviews from user

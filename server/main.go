@@ -89,7 +89,7 @@ func main() {
 
 	handler := cors.Default().Handler(routes)
 
-	server := http.Server{Addr: "localhost:8888", Handler: handler}
+	server := http.Server{Addr: ":8080", Handler: handler}
 
 	//server := http.Server{Addr: "localhost:8888", Handler: routes}
 
