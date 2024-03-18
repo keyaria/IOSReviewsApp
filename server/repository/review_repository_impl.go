@@ -23,13 +23,14 @@ func NewReviewRepository(Db *sql.DB) ReviewRepository {
 // FindAll implements ReviewRepository
 func (r *ReviewRepositoryImpl) FindAll(w http.ResponseWriter, ctx context.Context, res url.Values) []models.Review {
 
-	w.Header().Set("Content-Type", "application/json")
+	//w.Header().Set("Content-Type", "application/json")
 
 	filters := res.Get("time")
 	tx, err := r.Db.Begin()
 
 	helpers.ThrowIfError(err)
 	defer helpers.CommitOrRollback(tx)
+
 	// Get the current time and calculate the time 48 hours ago
 	now := time.Now()
 	calc, err := time.ParseDuration(filters + "h")
@@ -39,11 +40,7 @@ func (r *ReviewRepositoryImpl) FindAll(w http.ResponseWriter, ctx context.Contex
 	// Format the current time using the layout
 	formattedTime := past48Hours.Format(layout)
 
-	fmt.Println("'time'", past48Hours, "calc:", calc, 48*time.Hour)
-	fmt.Println("parmas", filters)
-
 	SQL := "select id,name,updated,rating, title, content from review where updated >= $1"
-	fmt.Println("SQL'", SQL)
 
 	result, errQuery := tx.QueryContext(ctx, SQL, formattedTime)
 
@@ -66,27 +63,11 @@ func (r *ReviewRepositoryImpl) FindAll(w http.ResponseWriter, ctx context.Contex
 // SaveAll implements ReviewRepository
 // while Not an API Call putting here to keep DB calls in one location for now
 func (r *ReviewRepositoryImpl) SaveAll(review request.ReviewCreateRequest) {
-	// apiUrl := "https://itunes.apple.com/us/rss/customerreviews/id=595068606/sortBy=mostRecent/page=1/json"
-
-	// // TODO: In Order to do Polling, create a timer function
-	// httpClient := http.Client{
-	// 	Timeout: time.Second * 10, // Adjust timeout as needed
-	// }
-
-	// resp, err := httpClient.Get(apiUrl)
-
-	// helpers.ThrowIfError(err)
-
-	// fmt.Println("respnse", resp)
 
 	tx, err := r.Db.Begin()
 	helpers.ThrowIfError(err)
 	defer helpers.CommitOrRollback(tx)
 
-	// if err != nil {
-	// 	fmt.Println("Error beginning transaction:", err)
-	// 	return
-	// }
 	fmt.Println("review", review)
 	SQL := "insert into review(name, updated, rating, title, content) values ($1, $2, $3, $4, $5)"
 	layout := "2006-01-02T15:04:05-07:00"
@@ -101,14 +82,8 @@ func (r *ReviewRepositoryImpl) SaveAll(review request.ReviewCreateRequest) {
 
 	helpers.ThrowIfError(err)
 
-	fmt.Println("Finished Adding to Databse")
+	fmt.Println("Finished Adding to Database")
 
-	// _, err = tx.Exec(SQL, entry.Author.Name.Label, timestamp, entry.ImRating.Label, entry.Title.Label, entry.Content.Label)
-	// if err != nil {
-	// 	fmt.Println("Error executing SQL statement:", err)
-	// 	return
-	// }
-	//fmt.Println(reviews)
 }
 
 // Save implements ReviewRepository

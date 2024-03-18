@@ -20,6 +20,7 @@ ul {
   align-items: flex-start;
   -ms-flex-wrap: wrap;
   flex-wrap: wrap;
+  flex-direction: column;
 
   padding: 50px 0;
 
@@ -51,4 +52,11 @@ li {
 
 .read-the-docs {
   color: #888;
+}
+
+
+@media screen and (min-width: 480px) {
+  ul {
+    flex-direction: row;
+  }
 }

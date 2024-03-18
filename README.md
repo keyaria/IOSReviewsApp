@@ -25,12 +25,19 @@ docker componse stop
 ## Technical Decisions
 
 - ViteJS
+- Interfaces on FE
 
-- Repository Pattern
+- Repository Pattern On BE
+
+
+Packages added on BE
+- CORS : github.com/rs/cors
+    - Due to serving BE and FROM from different ports this is needed to add the header for CORS.
 
 ## Tradeoffs
 
 - Writing to JSON file vs Database
+    - Initially testing the API on JSON file, I decided to do a more real world Full Stack application as I have not much expereince working in Go. Becasue of this it gave me a chance to learn alot about Golang as I built.
 
 
 ## Improvements

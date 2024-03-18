@@ -9,6 +9,7 @@ import (
 	_ "github.com/lib/pq" // Postgres golang driver
 )
 
+// To Develop Locally
 const (
 	host     = "localhost"
 	port     = 5432

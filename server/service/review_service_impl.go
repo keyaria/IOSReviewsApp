@@ -46,13 +46,6 @@ func (r *ReviewServiceImpl) FindAll(w http.ResponseWriter, ctx context.Context, 
 }
 
 func (r *ReviewServiceImpl) CreateAll(request request.ReviewCreateRequest) {
-	// review := models.Review{
-	// 	Name:    request.Name,
-	// 	Updated: request.Updated,
-	// 	Rating:  request.Rating,
-	// 	Title:   request.Title,
-	// 	Content: request.Content,
-	// }
 	r.ReviewRepository.SaveAll(request)
 }
 

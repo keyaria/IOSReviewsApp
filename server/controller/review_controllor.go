@@ -33,16 +33,7 @@ func (controller *ReviewController) Create(writer http.ResponseWriter, requests 
 }
 
 func (controller *ReviewController) CreateAll(review request.ReviewCreateRequest) {
-	//ReviewCreateRequest := request.ReviewCreateRequest{}
-
 	controller.ReviewService.CreateAll(review)
-	// webResponse := response.WebResponse{
-	// 	Code:   200,
-	// 	Status: "Ok",
-	// 	Data:   nil,
-	// }
-
-	// helpers.WriteResponseBody(writer, webResponse)
 }
 
 func (controller *ReviewController) FindAll(writer http.ResponseWriter, requests *http.Request, params httprouter.Params) {
