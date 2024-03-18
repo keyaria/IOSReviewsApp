@@ -1,0 +1,2537 @@
+{
+ "feed": {
+  "author": {
+   "name": {
+    "label": "iTunes Store"
+   },
+   "uri": {
+    "label": "http://www.apple.com/itunes/"
+   }
+  },
+  "entry": [
+   {
+    "author": {
+     "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id345318223"
+     },
+     "name": {
+      "label": "Little Red Riding Hood 666"
+     },
+     "label": ""
+    },
+    "updated": {
+     "label": "2024-03-13T04:25:02-07:00"
+    },
+    "im:rating": {
+     "label": "1"
+    },
+    "im:version": {
+     "label": "3.113.0"
+    },
+    "id": {
+     "label": "11039586140"
+    },
+    "title": {
+     "label": "Doesn’t work"
+    },
+    "content": {
+     "label": "Can’t even connect account to Venmo.",
+     "attributes": {
+      "type": "text"
+     }
+    },
+    "link": {
+     "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=595068606\u0026type=Purple%20Software"
+     }
+    },
+    "im:voteSum": {
+     "label": "0"
+    },
+    "im:contentType": {
+     "attributes": {
+      "term": "Application",
+      "label": "Application"
+     }
+    },
+    "im:voteCount": {
+     "label": "0"
+    }
+   },
+   {
+    "author": {
+     "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id1400976208"
+     },
+     "name": {
+      "label": "wafow"
+     },
+     "label": ""
+    },
+    "updated": {
+     "label": "2024-03-12T10:10:58-07:00"
+    },
+    "im:rating": {
+     "label": "5"
+    },
+    "im:version": {
+     "label": "3.113.0"
+    },
+    "id": {
+     "label": "11037094603"
+    },
+    "title": {
+     "label": "Fantastic App"
+    },
+    "content": {
+     "label": "The app is super user friendly and work amazingly. This makes splitting bills soooo much easier. Now no one loses out when one person puts their card down and everyone tries to Venmo them the correct amount.",
+     "attributes": {
+      "type": "text"
+     }
+    },
+    "link": {
+     "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=595068606\u0026type=Purple%20Software"
+     }
+    },
+    "im:voteSum": {
+     "label": "0"
+    },
+    "im:contentType": {
+     "attributes": {
+      "term": "Application",
+      "label": "Application"
+     }
+    },
+    "im:voteCount": {
+     "label": "0"
+    }
+   },
+   {
+    "author": {
+     "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id502406323"
+     },
+     "name": {
+      "label": "donot trap"
+     },
+     "label": ""
+    },
+    "updated": {
+     "label": "2024-03-10T15:27:53-07:00"
+    },
+    "im:rating": {
+     "label": "4"
+    },
+    "im:version": {
+     "label": "3.113.0"
+    },
+    "id": {
+     "label": "11030840001"
+    },
+    "title": {
+     "label": "Great app"
+    },
+    "content": {
+     "label": "Would love to see better naming conventions for each bill.  Also it takes few tries to get the scanning to work correctly",
+     "attributes": {
+      "type": "text"
+     }
+    },
+    "link": {
+     "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=595068606\u0026type=Purple%20Software"
+     }
+    },
+    "im:voteSum": {
+     "label": "0"
+    },
+    "im:contentType": {
+     "attributes": {
+      "term": "Application",
+      "label": "Application"
+     }
+    },
+    "im:voteCount": {
+     "label": "0"
+    }
+   },
+   {
+    "author": {
+     "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id489171506"
+     },
+     "name": {
+      "label": "Galaxium"
+     },
+     "label": ""
+    },
+    "updated": {
+     "label": "2024-03-10T13:42:31-07:00"
+    },
+    "im:rating": {
+     "label": "1"
+    },
+    "im:version": {
+     "label": "3.113.0"
+    },
+    "id": {
+     "label": "11030579850"
+    },
+    "title": {
+     "label": "Shamefully bad."
+    },
+    "content": {
+     "label": "Dodge this bill splitting app. Poor UI and UX. Impossible to edit values. Uninstalled.",
+     "attributes": {
+      "type": "text"
+     }
+    },
+    "link": {
+     "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=595068606\u0026type=Purple%20Software"
+     }
+    },
+    "im:voteSum": {
+     "label": "0"
+    },
+    "im:contentType": {
+     "attributes": {
+      "term": "Application",
+      "label": "Application"
+     }
+    },
+    "im:voteCount": {
+     "label": "0"
+    }
+   },
+   {
+    "author": {
+     "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id85770699"
+     },
+     "name": {
+      "label": "Peter mares"
+     },
+     "label": ""
+    },
+    "updated": {
+     "label": "2024-03-09T08:50:25-07:00"
+    },
+    "im:rating": {
+     "label": "3"
+    },
+    "im:version": {
+     "label": "3.113.0"
+    },
+    "id": {
+     "label": "11026038445"
+    },
+    "title": {
+     "label": "Great app, bad UI / Venmo integration"
+    },
+    "content": {
+     "label": "The app does what it says and makes it easy. \n\nThe Venmo integration is a key reason I downloaded it, and it hasn’t worked since I got the app. \n\nThe UI is very odd. I think it’s trying to be super modern, but the buttons are impossible to click, at least on my iPhone. I’ll click close 10 times before it registers.",
+     "attributes": {
+      "type": "text"
+     }
+    },
+    "link": {
+     "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=595068606\u0026type=Purple%20Software"
+     }
+    },
+    "im:voteSum": {
+     "label": "0"
+    },
+    "im:contentType": {
+     "attributes": {
+      "term": "Application",
+      "label": "Application"
+     }
+    },
+    "im:voteCount": {
+     "label": "0"
+    }
+   },
+   {
+    "author": {
+     "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id38174464"
+     },
+     "name": {
+      "label": "jamaicaj"
+     },
+     "label": ""
+    },
+    "updated": {
+     "label": "2024-03-08T20:50:16-07:00"
+    },
+    "im:rating": {
+     "label": "2"
+    },
+    "im:version": {
+     "label": "3.113.0"
+    },
+    "id": {
+     "label": "11024038995"
+    },
+    "title": {
+     "label": "Venmo connect has never worked"
+    },
+    "content": {
+     "label": "This app has great potential but ever since I’ve downloaded this app the Venmo connection has never worked.",
+     "attributes": {
+      "type": "text"
+     }
+    },
+    "link": {
+     "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=595068606\u0026type=Purple%20Software"
+     }
+    },
+    "im:voteSum": {
+     "label": "0"
+    },
+    "im:contentType": {
+     "attributes": {
+      "term": "Application",
+      "label": "Application"
+     }
+    },
+    "im:voteCount": {
+     "label": "0"
+    }
+   },
+   {
+    "author": {
+     "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id1311878611"
+     },
+     "name": {
+      "label": "JKJA1"
+     },
+     "label": ""
+    },
+    "updated": {
+     "label": "2024-03-06T21:19:22-07:00"
+    },
+    "im:rating": {
+     "label": "5"
+    },
+    "im:version": {
+     "label": "3.112.0"
+    },
+    "id": {
+     "label": "11016945996"
+    },
+    "title": {
+     "label": "The best thing"
+    },
+    "content": {
+     "label": "This is then best thing that ever happened to me . So easy to use with no back and forth computation , complications and disagreements. Here is my part of the bill . Bye! Yaaaay",
+     "attributes": {
+      "type": "text"
+     }
+    },
+    "link": {
+     "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=595068606\u0026type=Purple%20Software"
+     }
+    },
+    "im:voteSum": {
+     "label": "0"
+    },
+    "im:contentType": {
+     "attributes": {
+      "term": "Application",
+      "label": "Application"
+     }
+    },
+    "im:voteCount": {
+     "label": "0"
+    }
+   },
+   {
+    "author": {
+     "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id438812492"
+     },
+     "name": {
+      "label": "Lkddrcv"
+     },
+     "label": ""
+    },
+    "updated": {
+     "label": "2024-03-01T09:46:06-07:00"
+    },
+    "im:rating": {
+     "label": "1"
+    },
+    "im:version": {
+     "label": "3.112.0"
+    },
+    "id": {
+     "label": "10996807762"
+    },
+    "title": {
+     "label": "Doesn’t work (like at all)"
+    },
+    "content": {
+     "label": "App doesn’t process receipt correctly. Tried several times. Each time was different result. Doesn’t tabulate bills correctly either. Never should launch an app if it doesn’t do what u advertise.",
+     "attributes": {
+      "type": "text"
+     }
+    },
+    "link": {
+     "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=595068606\u0026type=Purple%20Software"
+     }
+    },
+    "im:voteSum": {
+     "label": "0"
+    },
+    "im:contentType": {
+     "attributes": {
+      "term": "Application",
+      "label": "Application"
+     }
+    },
+    "im:voteCount": {
+     "label": "0"
+    }
+   },
+   {
+    "author": {
+     "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id27377608"
+     },
+     "name": {
+      "label": "OriginalGumshoe"
+     },
+     "label": ""
+    },
+    "updated": {
+     "label": "2024-02-27T20:23:16-07:00"
+    },
+    "im:rating": {
+     "label": "5"
+    },
+    "im:version": {
+     "label": "3.112.0"
+    },
+    "id": {
+     "label": "10987467328"
+    },
+    "title": {
+     "label": "Wow and wow!!"
+    },
+    "content": {
+     "label": "I have used similar bill splitting apps in the past but this is light years ahead of everything!  I am so impressed!  It would be nice to have MORE integration with other payment tools other than Venmo AND allow each person to use a different form of payment.  Also, include an ‘expensing’ option so that if work is reimbursing the meal, you can exclude items they do not allow (eg. alcohol, etc).  Great programming!!",
+     "attributes": {
+      "type": "text"
+     }
+    },
+    "link": {
+     "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=595068606\u0026type=Purple%20Software"
+     }
+    },
+    "im:voteSum": {
+     "label": "0"
+    },
+    "im:contentType": {
+     "attributes": {
+      "term": "Application",
+      "label": "Application"
+     }
+    },
+    "im:voteCount": {
+     "label": "0"
+    }
+   },
+   {
+    "author": {
+     "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id111822724"
+     },
+     "name": {
+      "label": "hummusqueso"
+     },
+     "label": ""
+    },
+    "updated": {
+     "label": "2024-02-21T00:38:28-07:00"
+    },
+    "im:rating": {
+     "label": "3"
+    },
+    "im:version": {
+     "label": "3.112.0"
+    },
+    "id": {
+     "label": "10962699783"
+    },
+    "title": {
+     "label": "Venmo?"
+    },
+    "content": {
+     "label": "This app is so much more intuitive than Splitwise but its Venmo integration has been broken for a very long time, which makes it hard to recommend to people. Is there a plan to fix this? Is this app in active development? Bill-splitting is such a common problem, it’s baffling our options for it are so lackluster. Hope you resolve this soon.",
+     "attributes": {
+      "type": "text"
+     }
+    },
+    "link": {
+     "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=595068606\u0026type=Purple%20Software"
+     }
+    },
+    "im:voteSum": {
+     "label": "0"
+    },
+    "im:contentType": {
+     "attributes": {
+      "term": "Application",
+      "label": "Application"
+     }
+    },
+    "im:voteCount": {
+     "label": "0"
+    }
+   },
+   {
+    "author": {
+     "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id43328605"
+     },
+     "name": {
+      "label": "Mirza Rahman"
+     },
+     "label": ""
+    },
+    "updated": {
+     "label": "2024-02-19T16:46:01-07:00"
+    },
+    "im:rating": {
+     "label": "5"
+    },
+    "im:version": {
+     "label": "3.112.0"
+    },
+    "id": {
+     "label": "10958098310"
+    },
+    "title": {
+     "label": "Works great!"
+    },
+    "content": {
+     "label": "Been using it for years and is great for splitting annoying bills. My only feedback would be that it would be great if you specify quantity per user on items. All that said, this is amazing as a Free app and props to the developers for never pushing any ads. Would pay for this app tbh",
+     "attributes": {
+      "type": "text"
+     }
+    },
+    "link": {
+     "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=595068606\u0026type=Purple%20Software"
+     }
+    },
+    "im:voteSum": {
+     "label": "0"
+    },
+    "im:contentType": {
+     "attributes": {
+      "term": "Application",
+      "label": "Application"
+     }
+    },
+    "im:voteCount": {
+     "label": "0"
+    }
+   },
+   {
+    "author": {
+     "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id662239741"
+     },
+     "name": {
+      "label": "Kathy S. Over 50"
+     },
+     "label": ""
+    },
+    "updated": {
+     "label": "2024-02-18T13:23:08-07:00"
+    },
+    "im:rating": {
+     "label": "5"
+    },
+    "im:version": {
+     "label": "3.112.0"
+    },
+    "id": {
+     "label": "10953956873"
+    },
+    "title": {
+     "label": "Fast and Efficient!"
+    },
+    "content": {
+     "label": "Fast and efficient way to cover only your share!  No more uneasiness or guesswork.",
+     "attributes": {
+      "type": "text"
+     }
+    },
+    "link": {
+     "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=595068606\u0026type=Purple%20Software"
+     }
+    },
+    "im:voteSum": {
+     "label": "0"
+    },
+    "im:contentType": {
+     "attributes": {
+      "term": "Application",
+      "label": "Application"
+     }
+    },
+    "im:voteCount": {
+     "label": "0"
+    }
+   },
+   {
+    "author": {
+     "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id1218678364"
+     },
+     "name": {
+      "label": "the-sun-king"
+     },
+     "label": ""
+    },
+    "updated": {
+     "label": "2024-02-16T07:53:58-07:00"
+    },
+    "im:rating": {
+     "label": "5"
+    },
+    "im:version": {
+     "label": "3.112.0"
+    },
+    "id": {
+     "label": "10945467037"
+    },
+    "title": {
+     "label": "Brilliant Execution"
+    },
+    "content": {
+     "label": "Excellent app. OCR is top-notch and each step of the process is easy to use and easy to edit. The ability to split individual items amongst multiple people is easy and super useful. Couldn't recommend more!",
+     "attributes": {
+      "type": "text"
+     }
+    },
+    "link": {
+     "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=595068606\u0026type=Purple%20Software"
+     }
+    },
+    "im:voteSum": {
+     "label": "0"
+    },
+    "im:contentType": {
+     "attributes": {
+      "term": "Application",
+      "label": "Application"
+     }
+    },
+    "im:voteCount": {
+     "label": "0"
+    }
+   },
+   {
+    "author": {
+     "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id279080393"
+     },
+     "name": {
+      "label": "parada31"
+     },
+     "label": ""
+    },
+    "updated": {
+     "label": "2024-02-10T19:29:54-07:00"
+    },
+    "im:rating": {
+     "label": "5"
+    },
+    "im:version": {
+     "label": "3.112.0"
+    },
+    "id": {
+     "label": "10925588825"
+    },
+    "title": {
+     "label": "Amazing App for Group Dinners"
+    },
+    "content": {
+     "label": "Amazing app, makes it very simple and easy to split the bill and has some neat stuff added on! \n\nHoping for the Venmo connection to be fixed soon!",
+     "attributes": {
+      "type": "text"
+     }
+    },
+    "link": {
+     "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=595068606\u0026type=Purple%20Software"
+     }
+    },
+    "im:voteSum": {
+     "label": "0"
+    },
+    "im:contentType": {
+     "attributes": {
+      "term": "Application",
+      "label": "Application"
+     }
+    },
+    "im:voteCount": {
+     "label": "0"
+    }
+   },
+   {
+    "author": {
+     "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id224523815"
+     },
+     "name": {
+      "label": "leslietualla"
+     },
+     "label": ""
+    },
+    "updated": {
+     "label": "2024-02-10T16:43:18-07:00"
+    },
+    "im:rating": {
+     "label": "5"
+    },
+    "im:version": {
+     "label": "3.112.0"
+    },
+    "id": {
+     "label": "10925192712"
+    },
+    "title": {
+     "label": "Reliable \u0026 Easy"
+    },
+    "content": {
+     "label": "This app has takes away the hassle of having to split bills. So easy to use.",
+     "attributes": {
+      "type": "text"
+     }
+    },
+    "link": {
+     "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=595068606\u0026type=Purple%20Software"
+     }
+    },
+    "im:voteSum": {
+     "label": "0"
+    },
+    "im:contentType": {
+     "attributes": {
+      "term": "Application",
+      "label": "Application"
+     }
+    },
+    "im:voteCount": {
+     "label": "0"
+    }
+   },
+   {
+    "author": {
+     "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id273294973"
+     },
+     "name": {
+      "label": "Maddkell"
+     },
+     "label": ""
+    },
+    "updated": {
+     "label": "2024-02-10T16:37:16-07:00"
+    },
+    "im:rating": {
+     "label": "5"
+    },
+    "im:version": {
+     "label": "3.112.0"
+    },
+    "id": {
+     "label": "10925178717"
+    },
+    "title": {
+     "label": "Lifesaver"
+    },
+    "content": {
+     "label": "Highly recommend!!",
+     "attributes": {
+      "type": "text"
+     }
+    },
+    "link": {
+     "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=595068606\u0026type=Purple%20Software"
+     }
+    },
+    "im:voteSum": {
+     "label": "0"
+    },
+    "im:contentType": {
+     "attributes": {
+      "term": "Application",
+      "label": "Application"
+     }
+    },
+    "im:voteCount": {
+     "label": "0"
+    }
+   },
+   {
+    "author": {
+     "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id423015269"
+     },
+     "name": {
+      "label": "ALoveKing"
+     },
+     "label": ""
+    },
+    "updated": {
+     "label": "2024-02-09T04:35:17-07:00"
+    },
+    "im:rating": {
+     "label": "4"
+    },
+    "im:version": {
+     "label": "3.112.0"
+    },
+    "id": {
+     "label": "10919412235"
+    },
+    "title": {
+     "label": "USD only??"
+    },
+    "content": {
+     "label": "If there is a way to switch currencies, it’s not obvious to me. Would be great to have this included in an update. Otherwise I love the ease and conscience of this app!",
+     "attributes": {
+      "type": "text"
+     }
+    },
+    "link": {
+     "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=595068606\u0026type=Purple%20Software"
+     }
+    },
+    "im:voteSum": {
+     "label": "0"
+    },
+    "im:contentType": {
+     "attributes": {
+      "term": "Application",
+      "label": "Application"
+     }
+    },
+    "im:voteCount": {
+     "label": "0"
+    }
+   },
+   {
+    "author": {
+     "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id943907378"
+     },
+     "name": {
+      "label": "Rueben Dorado"
+     },
+     "label": ""
+    },
+    "updated": {
+     "label": "2024-02-04T19:08:28-07:00"
+    },
+    "im:rating": {
+     "label": "5"
+    },
+    "im:version": {
+     "label": "3.112.0"
+    },
+    "id": {
+     "label": "10903056519"
+    },
+    "title": {
+     "label": "It’s great"
+    },
+    "content": {
+     "label": "This app makes it so easy for me to split bills for restaurants to grocery bills it is a very convenient tool for me",
+     "attributes": {
+      "type": "text"
+     }
+    },
+    "link": {
+     "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=595068606\u0026type=Purple%20Software"
+     }
+    },
+    "im:voteSum": {
+     "label": "0"
+    },
+    "im:contentType": {
+     "attributes": {
+      "term": "Application",
+      "label": "Application"
+     }
+    },
+    "im:voteCount": {
+     "label": "0"
+    }
+   },
+   {
+    "author": {
+     "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id29247878"
+     },
+     "name": {
+      "label": "The Alt Vault"
+     },
+     "label": ""
+    },
+    "updated": {
+     "label": "2024-02-03T14:41:35-07:00"
+    },
+    "im:rating": {
+     "label": "4"
+    },
+    "im:version": {
+     "label": "3.112.0"
+    },
+    "id": {
+     "label": "10898448421"
+    },
+    "title": {
+     "label": "Broken Venmo Connection - Still Great"
+    },
+    "content": {
+     "label": "Amazing app that I have loved for years BUT it has never connected to Venmo. I would seriously love for that to be fixed and for another integration to be added with Splitwise- that would be amazing",
+     "attributes": {
+      "type": "text"
+     }
+    },
+    "link": {
+     "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=595068606\u0026type=Purple%20Software"
+     }
+    },
+    "im:voteSum": {
+     "label": "0"
+    },
+    "im:contentType": {
+     "attributes": {
+      "term": "Application",
+      "label": "Application"
+     }
+    },
+    "im:voteCount": {
+     "label": "0"
+    }
+   },
+   {
+    "author": {
+     "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id208445075"
+     },
+     "name": {
+      "label": "Abhyurocks"
+     },
+     "label": ""
+    },
+    "updated": {
+     "label": "2024-02-01T00:39:49-07:00"
+    },
+    "im:rating": {
+     "label": "5"
+    },
+    "im:version": {
+     "label": "3.112.0"
+    },
+    "id": {
+     "label": "10887863933"
+    },
+    "title": {
+     "label": "Everyone needs this app"
+    },
+    "content": {
+     "label": "It’s freaking amazing",
+     "attributes": {
+      "type": "text"
+     }
+    },
+    "link": {
+     "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=595068606\u0026type=Purple%20Software"
+     }
+    },
+    "im:voteSum": {
+     "label": "0"
+    },
+    "im:contentType": {
+     "attributes": {
+      "term": "Application",
+      "label": "Application"
+     }
+    },
+    "im:voteCount": {
+     "label": "0"
+    }
+   },
+   {
+    "author": {
+     "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id133669655"
+     },
+     "name": {
+      "label": "hilsaeveline"
+     },
+     "label": ""
+    },
+    "updated": {
+     "label": "2024-01-22T17:46:19-07:00"
+    },
+    "im:rating": {
+     "label": "3"
+    },
+    "im:version": {
+     "label": "3.112.0"
+    },
+    "id": {
+     "label": "10853164695"
+    },
+    "title": {
+     "label": "Venmo won’t connect"
+    },
+    "content": {
+     "label": "Great for the most part, except Venmo won’t connect to the app. It just leads me to a blank screen with two circles and two buttons, but clicking the “allow” button doesn’t do anything.",
+     "attributes": {
+      "type": "text"
+     }
+    },
+    "link": {
+     "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=595068606\u0026type=Purple%20Software"
+     }
+    },
+    "im:voteSum": {
+     "label": "0"
+    },
+    "im:contentType": {
+     "attributes": {
+      "term": "Application",
+      "label": "Application"
+     }
+    },
+    "im:voteCount": {
+     "label": "0"
+    }
+   },
+   {
+    "author": {
+     "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id119732269"
+     },
+     "name": {
+      "label": "CynthiaCar"
+     },
+     "label": ""
+    },
+    "updated": {
+     "label": "2024-01-22T17:18:47-07:00"
+    },
+    "im:rating": {
+     "label": "2"
+    },
+    "im:version": {
+     "label": "3.112.0"
+    },
+    "id": {
+     "label": "10853096112"
+    },
+    "title": {
+     "label": "could be better"
+    },
+    "content": {
+     "label": "i might need to find a better app for this sorta thing. the auto complete from a photo is suuuuper hit or miss. mostly misses if i’m honest to where it’s easier to manually enter it in. even then. at the end i can’t change the tax amount on my own which is annoying. it also doesn’t make it easy to split the tip evenly. it splits the tip based of percentage per amount spend which is fine… if i wanted to do that.",
+     "attributes": {
+      "type": "text"
+     }
+    },
+    "link": {
+     "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=595068606\u0026type=Purple%20Software"
+     }
+    },
+    "im:voteSum": {
+     "label": "0"
+    },
+    "im:contentType": {
+     "attributes": {
+      "term": "Application",
+      "label": "Application"
+     }
+    },
+    "im:voteCount": {
+     "label": "0"
+    }
+   },
+   {
+    "author": {
+     "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id978686504"
+     },
+     "name": {
+      "label": "anonymous honest review"
+     },
+     "label": ""
+    },
+    "updated": {
+     "label": "2024-01-17T11:17:37-07:00"
+    },
+    "im:rating": {
+     "label": "2"
+    },
+    "im:version": {
+     "label": "3.112.0"
+    },
+    "id": {
+     "label": "10833152680"
+    },
+    "title": {
+     "label": "Venmo never connects"
+    },
+    "content": {
+     "label": "Ever since I downloaded the app, it keeps telling me that venmo is “temporarily” not available. Temporarily in this case means always. If you can’t make it work, why are you setting the expectations that there is a possibility to connect to venmo?",
+     "attributes": {
+      "type": "text"
+     }
+    },
+    "link": {
+     "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=595068606\u0026type=Purple%20Software"
+     }
+    },
+    "im:voteSum": {
+     "label": "0"
+    },
+    "im:contentType": {
+     "attributes": {
+      "term": "Application",
+      "label": "Application"
+     }
+    },
+    "im:voteCount": {
+     "label": "0"
+    }
+   },
+   {
+    "author": {
+     "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id327663739"
+     },
+     "name": {
+      "label": "Romance_geek"
+     },
+     "label": ""
+    },
+    "updated": {
+     "label": "2024-01-13T11:21:46-07:00"
+    },
+    "im:rating": {
+     "label": "5"
+    },
+    "im:version": {
+     "label": "3.112.0"
+    },
+    "id": {
+     "label": "10818289051"
+    },
+    "title": {
+     "label": "Best App"
+    },
+    "content": {
+     "label": "I use the app frequently with friends and it never fails!",
+     "attributes": {
+      "type": "text"
+     }
+    },
+    "link": {
+     "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=595068606\u0026type=Purple%20Software"
+     }
+    },
+    "im:voteSum": {
+     "label": "0"
+    },
+    "im:contentType": {
+     "attributes": {
+      "term": "Application",
+      "label": "Application"
+     }
+    },
+    "im:voteCount": {
+     "label": "0"
+    }
+   },
+   {
+    "author": {
+     "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id105807510"
+     },
+     "name": {
+      "label": "Jaymenaomi"
+     },
+     "label": ""
+    },
+    "updated": {
+     "label": "2024-01-03T18:09:47-07:00"
+    },
+    "im:rating": {
+     "label": "5"
+    },
+    "im:version": {
+     "label": "3.112.0"
+    },
+    "id": {
+     "label": "10781113649"
+    },
+    "title": {
+     "label": "Love it!! So helpful!"
+    },
+    "content": {
+     "label": "I have used this app for over 10 yrs and I absolutely love it. My friends always tell me to use it when we go out and it makes life so much easier. Thank you! Thank you! Thank you!",
+     "attributes": {
+      "type": "text"
+     }
+    },
+    "link": {
+     "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=595068606\u0026type=Purple%20Software"
+     }
+    },
+    "im:voteSum": {
+     "label": "0"
+    },
+    "im:contentType": {
+     "attributes": {
+      "term": "Application",
+      "label": "Application"
+     }
+    },
+    "im:voteCount": {
+     "label": "0"
+    }
+   },
+   {
+    "author": {
+     "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id1152973000"
+     },
+     "name": {
+      "label": "Tab-restaurant tax rate"
+     },
+     "label": ""
+    },
+    "updated": {
+     "label": "2024-01-03T05:13:06-07:00"
+    },
+    "im:rating": {
+     "label": "5"
+    },
+    "im:version": {
+     "label": "3.112.0"
+    },
+    "id": {
+     "label": "10778744192"
+    },
+    "title": {
+     "label": "Is there a setting to change the tax rate?"
+    },
+    "content": {
+     "label": "I don’t think tax is always 18% it could vary.",
+     "attributes": {
+      "type": "text"
+     }
+    },
+    "link": {
+     "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=595068606\u0026type=Purple%20Software"
+     }
+    },
+    "im:voteSum": {
+     "label": "0"
+    },
+    "im:contentType": {
+     "attributes": {
+      "term": "Application",
+      "label": "Application"
+     }
+    },
+    "im:voteCount": {
+     "label": "0"
+    }
+   },
+   {
+    "author": {
+     "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id429678180"
+     },
+     "name": {
+      "label": "Tab NL"
+     },
+     "label": ""
+    },
+    "updated": {
+     "label": "2023-12-29T05:44:29-07:00"
+    },
+    "im:rating": {
+     "label": "3"
+    },
+    "im:version": {
+     "label": "3.112.0"
+    },
+    "id": {
+     "label": "10758775410"
+    },
+    "title": {
+     "label": "Needs work"
+    },
+    "content": {
+     "label": "When I take a picture, it’s not accurate",
+     "attributes": {
+      "type": "text"
+     }
+    },
+    "link": {
+     "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=595068606\u0026type=Purple%20Software"
+     }
+    },
+    "im:voteSum": {
+     "label": "0"
+    },
+    "im:contentType": {
+     "attributes": {
+      "term": "Application",
+      "label": "Application"
+     }
+    },
+    "im:voteCount": {
+     "label": "0"
+    }
+   },
+   {
+    "author": {
+     "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id177469007"
+     },
+     "name": {
+      "label": "Innocent Sin"
+     },
+     "label": ""
+    },
+    "updated": {
+     "label": "2023-12-22T17:43:07-07:00"
+    },
+    "im:rating": {
+     "label": "3"
+    },
+    "im:version": {
+     "label": "3.112.0"
+    },
+    "id": {
+     "label": "10733221434"
+    },
+    "title": {
+     "label": "Great but one issue never fixed"
+    },
+    "content": {
+     "label": "Love the app. It makes splitting receipts  quick and easy. however, I have this issue with the short character limit for names, and another issue is that if the app gets the name of an item wrong on the receipt, it doesn’t allow me to change it for some reason I’m not able to delete any of the characters to fix the name. I’ve had this problem for the longest time, but they’ve never seem to fix it",
+     "attributes": {
+      "type": "text"
+     }
+    },
+    "link": {
+     "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=595068606\u0026type=Purple%20Software"
+     }
+    },
+    "im:voteSum": {
+     "label": "0"
+    },
+    "im:contentType": {
+     "attributes": {
+      "term": "Application",
+      "label": "Application"
+     }
+    },
+    "im:voteCount": {
+     "label": "0"
+    }
+   },
+   {
+    "author": {
+     "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id25272168"
+     },
+     "name": {
+      "label": "Blaxa"
+     },
+     "label": ""
+    },
+    "updated": {
+     "label": "2023-12-16T20:35:01-07:00"
+    },
+    "im:rating": {
+     "label": "4"
+    },
+    "im:version": {
+     "label": "3.112.0"
+    },
+    "id": {
+     "label": "10705955911"
+    },
+    "title": {
+     "label": "Where has this app been?"
+    },
+    "content": {
+     "label": "We just tried this today to split a bill for 12 people among 4 people. Everyone was impressed! Love that this really solves an everyday kind of situation! However, it mentioned an \"unclaimed amount\" and we had no way to easily see which item it was so I just ate up that cost. Also, I couldn't see a way to see the capture of the actual bill to confirm some things.",
+     "attributes": {
+      "type": "text"
+     }
+    },
+    "link": {
+     "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=595068606\u0026type=Purple%20Software"
+     }
+    },
+    "im:voteSum": {
+     "label": "0"
+    },
+    "im:contentType": {
+     "attributes": {
+      "term": "Application",
+      "label": "Application"
+     }
+    },
+    "im:voteCount": {
+     "label": "0"
+    }
+   },
+   {
+    "author": {
+     "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id11230019"
+     },
+     "name": {
+      "label": "Mcnuggs"
+     },
+     "label": ""
+    },
+    "updated": {
+     "label": "2023-12-13T14:22:55-07:00"
+    },
+    "im:rating": {
+     "label": "5"
+    },
+    "im:version": {
+     "label": "3.110.0"
+    },
+    "id": {
+     "label": "10691324047"
+    },
+    "title": {
+     "label": "Awesome!"
+    },
+    "content": {
+     "label": "Wish this app was around back when I was younger and went out in large groups.  Super convenient!",
+     "attributes": {
+      "type": "text"
+     }
+    },
+    "link": {
+     "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=595068606\u0026type=Purple%20Software"
+     }
+    },
+    "im:voteSum": {
+     "label": "0"
+    },
+    "im:contentType": {
+     "attributes": {
+      "term": "Application",
+      "label": "Application"
+     }
+    },
+    "im:voteCount": {
+     "label": "0"
+    }
+   },
+   {
+    "author": {
+     "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id509313203"
+     },
+     "name": {
+      "label": "claudbdnd"
+     },
+     "label": ""
+    },
+    "updated": {
+     "label": "2023-12-09T15:38:31-07:00"
+    },
+    "im:rating": {
+     "label": "5"
+    },
+    "im:version": {
+     "label": "3.110.0"
+    },
+    "id": {
+     "label": "10676223589"
+    },
+    "title": {
+     "label": "Easy to use!"
+    },
+    "content": {
+     "label": "Súper user friendly perfect for splitting checks. Always recommend to everyone I know",
+     "attributes": {
+      "type": "text"
+     }
+    },
+    "link": {
+     "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=595068606\u0026type=Purple%20Software"
+     }
+    },
+    "im:voteSum": {
+     "label": "0"
+    },
+    "im:contentType": {
+     "attributes": {
+      "term": "Application",
+      "label": "Application"
+     }
+    },
+    "im:voteCount": {
+     "label": "0"
+    }
+   },
+   {
+    "author": {
+     "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id415614295"
+     },
+     "name": {
+      "label": "ZenthicBeta"
+     },
+     "label": ""
+    },
+    "updated": {
+     "label": "2023-12-03T17:04:11-07:00"
+    },
+    "im:rating": {
+     "label": "1"
+    },
+    "im:version": {
+     "label": "3.110.0"
+    },
+    "id": {
+     "label": "10654804291"
+    },
+    "title": {
+     "label": "Venmo doesn’t work"
+    },
+    "content": {
+     "label": "The whole reason I downloaded this app is because it advertised simple Venmo support so I wouldn’t have to manually request everyone. However this option still does not work after months and there seems to be no motivation to make it work.",
+     "attributes": {
+      "type": "text"
+     }
+    },
+    "link": {
+     "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=595068606\u0026type=Purple%20Software"
+     }
+    },
+    "im:voteSum": {
+     "label": "0"
+    },
+    "im:contentType": {
+     "attributes": {
+      "term": "Application",
+      "label": "Application"
+     }
+    },
+    "im:voteCount": {
+     "label": "0"
+    }
+   },
+   {
+    "author": {
+     "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id41594062"
+     },
+     "name": {
+      "label": "iPatxx"
+     },
+     "label": ""
+    },
+    "updated": {
+     "label": "2023-11-24T12:58:38-07:00"
+    },
+    "im:rating": {
+     "label": "1"
+    },
+    "im:version": {
+     "label": "3.109.1"
+    },
+    "id": {
+     "label": "10621169777"
+    },
+    "title": {
+     "label": "Inability to manually change tax amount."
+    },
+    "content": {
+     "label": "Incorrect tax amount without the ability to change it. My receipt lists tax as $1.54 but the app keeps trying to charge $4.62. There’s no way to manually change it either, just the tip amount.",
+     "attributes": {
+      "type": "text"
+     }
+    },
+    "link": {
+     "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=595068606\u0026type=Purple%20Software"
+     }
+    },
+    "im:voteSum": {
+     "label": "0"
+    },
+    "im:contentType": {
+     "attributes": {
+      "term": "Application",
+      "label": "Application"
+     }
+    },
+    "im:voteCount": {
+     "label": "0"
+    }
+   },
+   {
+    "author": {
+     "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id25169744"
+     },
+     "name": {
+      "label": "KezG."
+     },
+     "label": ""
+    },
+    "updated": {
+     "label": "2023-11-24T10:26:09-07:00"
+    },
+    "im:rating": {
+     "label": "4"
+    },
+    "im:version": {
+     "label": "3.109.1"
+    },
+    "id": {
+     "label": "10620749362"
+    },
+    "title": {
+     "label": "Looking for something like this"
+    },
+    "content": {
+     "label": "I do bulk grocery shopping with friends and family. Im looking for an easy way to snap a picture of bill , select who’s expense and it tally up the cost.\nThis is almost what I need but geared more towards splitting restaurant bills.\nIt would be nice if there was an option to select what type of bill you want to split and also  if the members /names can be saved. Overall a great concept and easy to use",
+     "attributes": {
+      "type": "text"
+     }
+    },
+    "link": {
+     "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=595068606\u0026type=Purple%20Software"
+     }
+    },
+    "im:voteSum": {
+     "label": "0"
+    },
+    "im:contentType": {
+     "attributes": {
+      "term": "Application",
+      "label": "Application"
+     }
+    },
+    "im:voteCount": {
+     "label": "0"
+    }
+   },
+   {
+    "author": {
+     "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id165891420"
+     },
+     "name": {
+      "label": "Omarblu"
+     },
+     "label": ""
+    },
+    "updated": {
+     "label": "2023-11-17T19:02:09-07:00"
+    },
+    "im:rating": {
+     "label": "2"
+    },
+    "im:version": {
+     "label": "3.107.0"
+    },
+    "id": {
+     "label": "10596905788"
+    },
+    "title": {
+     "label": "Needs work"
+    },
+    "content": {
+     "label": "Love the concept of the app but it always gets confused when adding the subtotals and tips. It’ll have a random crazy price that’s no where near what we your bill is. It should allow us to manually make changes to the taxes and tips portion of the bill",
+     "attributes": {
+      "type": "text"
+     }
+    },
+    "link": {
+     "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=595068606\u0026type=Purple%20Software"
+     }
+    },
+    "im:voteSum": {
+     "label": "0"
+    },
+    "im:contentType": {
+     "attributes": {
+      "term": "Application",
+      "label": "Application"
+     }
+    },
+    "im:voteCount": {
+     "label": "0"
+    }
+   },
+   {
+    "author": {
+     "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id418237600"
+     },
+     "name": {
+      "label": "claire_1239399"
+     },
+     "label": ""
+    },
+    "updated": {
+     "label": "2023-11-15T20:27:44-07:00"
+    },
+    "im:rating": {
+     "label": "3"
+    },
+    "im:version": {
+     "label": "3.109.0"
+    },
+    "id": {
+     "label": "10590267384"
+    },
+    "title": {
+     "label": "Wish venmo integration worked"
+    },
+    "content": {
+     "label": "Would be perfect if that happened!",
+     "attributes": {
+      "type": "text"
+     }
+    },
+    "link": {
+     "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=595068606\u0026type=Purple%20Software"
+     }
+    },
+    "im:voteSum": {
+     "label": "0"
+    },
+    "im:contentType": {
+     "attributes": {
+      "term": "Application",
+      "label": "Application"
+     }
+    },
+    "im:voteCount": {
+     "label": "0"
+    }
+   },
+   {
+    "author": {
+     "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id33335331"
+     },
+     "name": {
+      "label": "Musichameleon"
+     },
+     "label": ""
+    },
+    "updated": {
+     "label": "2023-11-14T07:31:18-07:00"
+    },
+    "im:rating": {
+     "label": "5"
+    },
+    "im:version": {
+     "label": "3.107.0"
+    },
+    "id": {
+     "label": "10585043266"
+    },
+    "title": {
+     "label": "Simple app! A must for anybody under the age of 40!"
+    },
+    "content": {
+     "label": "Easy to use interface, and somehow now makes picking up the tab, and dividing later, not an enormous chore.",
+     "attributes": {
+      "type": "text"
+     }
+    },
+    "link": {
+     "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=595068606\u0026type=Purple%20Software"
+     }
+    },
+    "im:voteSum": {
+     "label": "0"
+    },
+    "im:contentType": {
+     "attributes": {
+      "term": "Application",
+      "label": "Application"
+     }
+    },
+    "im:voteCount": {
+     "label": "0"
+    }
+   },
+   {
+    "author": {
+     "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id79038227"
+     },
+     "name": {
+      "label": "MichallaGeer"
+     },
+     "label": ""
+    },
+    "updated": {
+     "label": "2023-11-13T22:19:33-07:00"
+    },
+    "im:rating": {
+     "label": "5"
+    },
+    "im:version": {
+     "label": "3.108.0"
+    },
+    "id": {
+     "label": "10583723660"
+    },
+    "title": {
+     "label": "Honestly great for a free app"
+    },
+    "content": {
+     "label": "For being free, this app is great. Sure, it has its quirks. I put my hand/napkin over anything on the receipt that shouldn’t be in the picture. I also don’t use the Venmo integration. But it is so easy to split items and quickly tell who owes what. Very impressed, use it all the time.",
+     "attributes": {
+      "type": "text"
+     }
+    },
+    "link": {
+     "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=595068606\u0026type=Purple%20Software"
+     }
+    },
+    "im:voteSum": {
+     "label": "0"
+    },
+    "im:contentType": {
+     "attributes": {
+      "term": "Application",
+      "label": "Application"
+     }
+    },
+    "im:voteCount": {
+     "label": "0"
+    }
+   },
+   {
+    "author": {
+     "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id407655171"
+     },
+     "name": {
+      "label": "Dariusssssssss1"
+     },
+     "label": ""
+    },
+    "updated": {
+     "label": "2023-11-13T08:10:03-07:00"
+    },
+    "im:rating": {
+     "label": "5"
+    },
+    "im:version": {
+     "label": "3.108.0"
+    },
+    "id": {
+     "label": "10581811916"
+    },
+    "title": {
+     "label": "This app is awesome"
+    },
+    "content": {
+     "label": "Love the app!! Overall a 4.9/5 for me, there were certain parts of the process that weren’t so obvious at first but could easily be figured out by revisiting. For example, The item assignment for claiming bill items. Upon arriving at the final page to pay, I realized items were unclaimed as it wasn’t entirely obvious in the moment. Finding a way to make it obvious the first iteration would be awesome, but that’s a difficult design question.\n\nOther aspects were related to the Venmo integration having issues, but that’s prob just a backend integration issue.",
+     "attributes": {
+      "type": "text"
+     }
+    },
+    "link": {
+     "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=595068606\u0026type=Purple%20Software"
+     }
+    },
+    "im:voteSum": {
+     "label": "0"
+    },
+    "im:contentType": {
+     "attributes": {
+      "term": "Application",
+      "label": "Application"
+     }
+    },
+    "im:voteCount": {
+     "label": "0"
+    }
+   },
+   {
+    "author": {
+     "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id1179202401"
+     },
+     "name": {
+      "label": "joeenguyenn"
+     },
+     "label": ""
+    },
+    "updated": {
+     "label": "2023-11-12T14:01:18-07:00"
+    },
+    "im:rating": {
+     "label": "2"
+    },
+    "im:version": {
+     "label": "3.107.0"
+    },
+    "id": {
+     "label": "10579303329"
+    },
+    "title": {
+     "label": "Potential but not good enough"
+    },
+    "content": {
+     "label": "This could’ve been the best app ever but the fact that you take the subtotal before tax and add the tip percentage and THEN you add tax is stupid. the tax should be before the tip.",
+     "attributes": {
+      "type": "text"
+     }
+    },
+    "link": {
+     "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=595068606\u0026type=Purple%20Software"
+     }
+    },
+    "im:voteSum": {
+     "label": "0"
+    },
+    "im:contentType": {
+     "attributes": {
+      "term": "Application",
+      "label": "Application"
+     }
+    },
+    "im:voteCount": {
+     "label": "0"
+    }
+   },
+   {
+    "author": {
+     "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id248243975"
+     },
+     "name": {
+      "label": "Joao1405"
+     },
+     "label": ""
+    },
+    "updated": {
+     "label": "2023-11-04T09:36:53-07:00"
+    },
+    "im:rating": {
+     "label": "2"
+    },
+    "im:version": {
+     "label": "3.107.0"
+    },
+    "id": {
+     "label": "10549764817"
+    },
+    "title": {
+     "label": "Photo gallery issues"
+    },
+    "content": {
+     "label": "Great interface and easy to navigate, but there are serious issues with pulling a receipt photo from your gallery and reading it.",
+     "attributes": {
+      "type": "text"
+     }
+    },
+    "link": {
+     "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=595068606\u0026type=Purple%20Software"
+     }
+    },
+    "im:voteSum": {
+     "label": "0"
+    },
+    "im:contentType": {
+     "attributes": {
+      "term": "Application",
+      "label": "Application"
+     }
+    },
+    "im:voteCount": {
+     "label": "0"
+    }
+   },
+   {
+    "author": {
+     "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id482227413"
+     },
+     "name": {
+      "label": "jschwartz830"
+     },
+     "label": ""
+    },
+    "updated": {
+     "label": "2023-10-21T06:12:55-07:00"
+    },
+    "im:rating": {
+     "label": "5"
+    },
+    "im:version": {
+     "label": "3.107.0"
+    },
+    "id": {
+     "label": "10499289786"
+    },
+    "title": {
+     "label": "Works well"
+    },
+    "content": {
+     "label": "Intuitive interface. Great for splitting bills.",
+     "attributes": {
+      "type": "text"
+     }
+    },
+    "link": {
+     "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=595068606\u0026type=Purple%20Software"
+     }
+    },
+    "im:voteSum": {
+     "label": "0"
+    },
+    "im:contentType": {
+     "attributes": {
+      "term": "Application",
+      "label": "Application"
+     }
+    },
+    "im:voteCount": {
+     "label": "0"
+    }
+   },
+   {
+    "author": {
+     "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id449781711"
+     },
+     "name": {
+      "label": "tylerfire55"
+     },
+     "label": ""
+    },
+    "updated": {
+     "label": "2023-10-14T15:09:28-07:00"
+    },
+    "im:rating": {
+     "label": "3"
+    },
+    "im:version": {
+     "label": "3.107.0"
+    },
+    "id": {
+     "label": "10475197129"
+    },
+    "title": {
+     "label": "Please Fix Integration!"
+    },
+    "content": {
+     "label": "The app is great. I haven't had any issues with adding amounts or food items, and it seems very intuitive most of the time too, but we need the Venmo integration back ASAP!",
+     "attributes": {
+      "type": "text"
+     }
+    },
+    "link": {
+     "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=595068606\u0026type=Purple%20Software"
+     }
+    },
+    "im:voteSum": {
+     "label": "0"
+    },
+    "im:contentType": {
+     "attributes": {
+      "term": "Application",
+      "label": "Application"
+     }
+    },
+    "im:voteCount": {
+     "label": "0"
+    }
+   },
+   {
+    "author": {
+     "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id1055050270"
+     },
+     "name": {
+      "label": "Jobieg2012"
+     },
+     "label": ""
+    },
+    "updated": {
+     "label": "2023-10-10T10:50:05-07:00"
+    },
+    "im:rating": {
+     "label": "5"
+    },
+    "im:version": {
+     "label": "3.107.0"
+    },
+    "id": {
+     "label": "10459944123"
+    },
+    "title": {
+     "label": "Downloaded this not knowing it would be a true game changer!!"
+    },
+    "content": {
+     "label": "This app is very easy to use once you understand what clicking on certain things does. It made splitting a large bill with family so super easy! I am obsessed. Will be sharing with friends and family from now on. Working in restaurant industry has made me really appreciate how this functions.",
+     "attributes": {
+      "type": "text"
+     }
+    },
+    "link": {
+     "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=595068606\u0026type=Purple%20Software"
+     }
+    },
+    "im:voteSum": {
+     "label": "0"
+    },
+    "im:contentType": {
+     "attributes": {
+      "term": "Application",
+      "label": "Application"
+     }
+    },
+    "im:voteCount": {
+     "label": "0"
+    }
+   },
+   {
+    "author": {
+     "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id12557583"
+     },
+     "name": {
+      "label": "Flowingrace"
+     },
+     "label": ""
+    },
+    "updated": {
+     "label": "2023-10-07T10:21:50-07:00"
+    },
+    "im:rating": {
+     "label": "5"
+    },
+    "im:version": {
+     "label": "3.107.0"
+    },
+    "id": {
+     "label": "10449417911"
+    },
+    "title": {
+     "label": "Better than all other bill splitting apps"
+    },
+    "content": {
+     "label": "I recently was asked to try Plates when I was out with a party of 13. The app is pretty, but when it comes to functionality and splitting checks, Tab is the best. Take a photo and it will automatically note all of the dishes and $$. I love that you can add people to the bill, not just random plates (looking at you Plates). Would highly recommend Tab to anyone going out with large parties where you need to split the check 😎",
+     "attributes": {
+      "type": "text"
+     }
+    },
+    "link": {
+     "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=595068606\u0026type=Purple%20Software"
+     }
+    },
+    "im:voteSum": {
+     "label": "0"
+    },
+    "im:contentType": {
+     "attributes": {
+      "term": "Application",
+      "label": "Application"
+     }
+    },
+    "im:voteCount": {
+     "label": "0"
+    }
+   },
+   {
+    "author": {
+     "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id464542668"
+     },
+     "name": {
+      "label": "Jadricj"
+     },
+     "label": ""
+    },
+    "updated": {
+     "label": "2023-10-02T09:16:03-07:00"
+    },
+    "im:rating": {
+     "label": "2"
+    },
+    "im:version": {
+     "label": "3.107.0"
+    },
+    "id": {
+     "label": "10431111777"
+    },
+    "title": {
+     "label": "Taxes"
+    },
+    "content": {
+     "label": "I’m not able to add the taxes",
+     "attributes": {
+      "type": "text"
+     }
+    },
+    "link": {
+     "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=595068606\u0026type=Purple%20Software"
+     }
+    },
+    "im:voteSum": {
+     "label": "0"
+    },
+    "im:contentType": {
+     "attributes": {
+      "term": "Application",
+      "label": "Application"
+     }
+    },
+    "im:voteCount": {
+     "label": "0"
+    }
+   },
+   {
+    "author": {
+     "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id559601879"
+     },
+     "name": {
+      "label": "Rosentrotter"
+     },
+     "label": ""
+    },
+    "updated": {
+     "label": "2023-09-24T21:42:04-07:00"
+    },
+    "im:rating": {
+     "label": "5"
+    },
+    "im:version": {
+     "label": "3.107.0"
+    },
+    "id": {
+     "label": "10404529077"
+    },
+    "title": {
+     "label": "This app is a must have"
+    },
+    "content": {
+     "label": "Rarely do I write reviews. This app has likely saved me money (of me missing a few dollars/cents trying to figure out this math on my own) and so many headaches splitting bills of large groups at restaurants that do not want to take the time to do separate checks. \n\nOver time, I have actually found it easier to just use this app rather than asking the server to do separate checks. In my experience with Tab, if you’re willing to do the work of figuring out who got what yourself, your servers get the order right, your food comes quicker (since they don’t have to spend a long time at the computer typing everything in carefully), and it makes the experience for the group better as a whole. \n\nA few feature suggestions:\n\nAppetizers: A conversation that tends to come up when deciding who got what is “well this person are more of this than this person.” Can you create a way to say “this person had 4 of 12 items from this” instead of splitting it 12 ways and tapping it four times? Technically the app does this, but it requires a bit of extra taps. \n\nAlcohol: Guests may feel it’s appropriate to tip more for elaborate cocktails than they would for a pizza. Servers also tip out the bartender. Is there a way to figure out how to skew tips up based on how much of the bill was alcohol? For example, 15% for the food, 20% for the alcohol.",
+     "attributes": {
+      "type": "text"
+     }
+    },
+    "link": {
+     "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=595068606\u0026type=Purple%20Software"
+     }
+    },
+    "im:voteSum": {
+     "label": "2"
+    },
+    "im:contentType": {
+     "attributes": {
+      "term": "Application",
+      "label": "Application"
+     }
+    },
+    "im:voteCount": {
+     "label": "2"
+    }
+   },
+   {
+    "author": {
+     "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id142568698"
+     },
+     "name": {
+      "label": "Kenz123454321"
+     },
+     "label": ""
+    },
+    "updated": {
+     "label": "2023-09-24T20:13:35-07:00"
+    },
+    "im:rating": {
+     "label": "5"
+    },
+    "im:version": {
+     "label": "3.107.0"
+    },
+    "id": {
+     "label": "10404359229"
+    },
+    "title": {
+     "label": "THIS IS EXACTLY WHAT I NEEDED!!"
+    },
+    "content": {
+     "label": "So so so cool!!! So useful and everyone needs this! Put the bill on one persons card and EASILY Venmo the exact amount of your meal!",
+     "attributes": {
+      "type": "text"
+     }
+    },
+    "link": {
+     "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=595068606\u0026type=Purple%20Software"
+     }
+    },
+    "im:voteSum": {
+     "label": "0"
+    },
+    "im:contentType": {
+     "attributes": {
+      "term": "Application",
+      "label": "Application"
+     }
+    },
+    "im:voteCount": {
+     "label": "0"
+    }
+   },
+   {
+    "author": {
+     "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id196284586"
+     },
+     "name": {
+      "label": "th3druminator"
+     },
+     "label": ""
+    },
+    "updated": {
+     "label": "2023-09-23T10:06:30-07:00"
+    },
+    "im:rating": {
+     "label": "2"
+    },
+    "im:version": {
+     "label": "3.107.0"
+    },
+    "id": {
+     "label": "10399298696"
+    },
+    "title": {
+     "label": "Used to be great"
+    },
+    "content": {
+     "label": "I love tab but it no longer works with Venmo so it’s not as useful as it used to be.",
+     "attributes": {
+      "type": "text"
+     }
+    },
+    "link": {
+     "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=595068606\u0026type=Purple%20Software"
+     }
+    },
+    "im:voteSum": {
+     "label": "0"
+    },
+    "im:contentType": {
+     "attributes": {
+      "term": "Application",
+      "label": "Application"
+     }
+    },
+    "im:voteCount": {
+     "label": "0"
+    }
+   },
+   {
+    "author": {
+     "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id26833758"
+     },
+     "name": {
+      "label": "hoobla"
+     },
+     "label": ""
+    },
+    "updated": {
+     "label": "2023-09-21T12:02:06-07:00"
+    },
+    "im:rating": {
+     "label": "1"
+    },
+    "im:version": {
+     "label": "3.107.0"
+    },
+    "id": {
+     "label": "10392511648"
+    },
+    "title": {
+     "label": "Does not work"
+    },
+    "content": {
+     "label": "Adding incorrectly, total always wrong",
+     "attributes": {
+      "type": "text"
+     }
+    },
+    "link": {
+     "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=595068606\u0026type=Purple%20Software"
+     }
+    },
+    "im:voteSum": {
+     "label": "0"
+    },
+    "im:contentType": {
+     "attributes": {
+      "term": "Application",
+      "label": "Application"
+     }
+    },
+    "im:voteCount": {
+     "label": "0"
+    }
+   }
+  ],
+  "updated": {
+   "label": "2024-03-17T01:16:35-07:00"
+  },
+  "rights": {
+   "label": "Copyright 2008 Apple Inc."
+  },
+  "title": {
+   "label": "iTunes Store: Customer Reviews"
+  },
+  "icon": {
+   "label": "http://itunes.apple.com/favicon.ico"
+  },
+  "link": [
+   {},
+   {},
+   {},
+   {},
+   {},
+   {}
+  ],
+  "id": {
+   "label": "https://mzstoreservices-int-st.itunes.apple.com/us/rss/customerreviews/id=595068606/sortBy=mostRecent/page=1/json"
+  }
+ }
+}
