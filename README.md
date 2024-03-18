@@ -1,6 +1,6 @@
 # IOS Review Application
  
- Gathers the the Most Recent review for an application from the IOS store from the past 64 hours
+ Gathers the the Most Recent review for an application from the IOS store from the past 64 hours (48 hours had little to no reviews)
 
 ## Tech Stack
 - ViteJS
@@ -25,14 +25,14 @@ docker componse stop
 ## Technical Decisions
 
 - ViteJS
-    -  Compared to ReactJS it has a fast development server, build times, and framerwork agnositic allowing greater flexibility if applications from other languages are added so I decided to ise it instead of create-react-app.
+    -  Compared to ReactJS it has a fast development server, build times, and framework agnositic allowing greater flexibility if applications from other languages are added, so I decided to use it instead of create-react-app.
 
 - Interfaces on FE
     - Allows for code to become module and have Services/APP that are based on functionality. Users can add more services/interfaces based on implementations(ex. Adding FE for a Android reviews Application).  
 
 - Repository Pattern On BE
     - In order to seperate Application Logic from Database Logic and show a clear flow of how data is being moved
-    - Can be further expanaded for a Domain Driven Design and Scalability
+    - Can be further expanded for a Domain Driven Design and Scalability
 
 
 Packages added on BE
