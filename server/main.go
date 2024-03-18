@@ -57,7 +57,7 @@ func main() {
 }
 
 func InitializeData(c *controller.ReviewController) {
-	apiUrl := "https://itunes.apple.com/us/rss/customerreviews/id=595068606/sortBy=mostRecent/page=1/json"
+	apiUrl := "https://itunes.apple.com/us/rss/customerreviews/id=466965151/sortBy=mostRecent/page=1/json"
 
 	// TODO: In Order to do Polling, create a timer function
 	httpClient := http.Client{
