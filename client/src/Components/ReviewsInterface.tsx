@@ -36,7 +36,7 @@ function ReviewsInterface() {
         }catch (err: any){
 
           setError(err.message);
-        setData(null);
+          setData(null);
         }finally {
           setLoading(false);
         }
