@@ -52,3 +52,4 @@ Packages added on BE
 - Create a table that stores Users and that has link to all reviews from user
 - Improve Testing on BE with integration tests
 - Cypress on FE to test entire flow
+- Add Caching on the FE 
