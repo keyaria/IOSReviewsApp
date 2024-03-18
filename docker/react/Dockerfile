@@ -1,10 +1,10 @@
-FROM node:16.0.0
+FROM node:18.0.0
 
+COPY ./client /app/client
 WORKDIR /app/client
-COPY . /client
 
-RUN cd /app \
-    && yarn start \
+RUN cd /app/client \
+    && yarn install \
     && yarn run build
 
 CMD ["yarn","dev"]

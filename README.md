@@ -15,9 +15,11 @@
 // Build application in docker
 docker compose build
 
-// Run For first time
+// Run Docker Containers
 docker compose up -d
 
+// Stop Docker
+docker componse stop
 
 ```
 ## Technical Decisions

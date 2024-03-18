@@ -1,4 +1,16 @@
 services:
+  viteapp:
+    container_name: viteapp
+    image: viteapp:1.0.0
+    build:
+      context: ./
+      dockerfile: ./docker/react/Dockerfile
+    ports:
+      - '5173:5173'
+    environment:
+      - VITE_API_BASE_URL=http://localhost:8080
+    depends_on:
+      - go
   go: 
     container_name: goapp
     image: goapp:1.0.0
